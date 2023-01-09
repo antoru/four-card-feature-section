@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+// colors
+
+$fireOpal: #EA5454;
+$mediumTurquoise: #44D3D2;
+$pastelOrange: #FCAE4A;
+$blueJeans: #549EF2;
+$indipendence: #4D4F62;
+$backgroundPage: #fafafa;
+
+///breakpoint
+$breakpoint-desktop-min: 768px;
+$breakpoint-mobile-max: 767px;
+
+// @media(min-width:$breakpoint-desktop-min){}
+// @media(max-width:$breakpoint-mobile-max){}
